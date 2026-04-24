@@ -59,15 +59,6 @@ A RESTful API built with **ASP.NET Core** and **Entity Framework Core** that man
 
 ---
 
-## Technologies Used
-
-- ASP.NET Core 8.0
-- Entity Framework Core 8.0
-- SQL Server
-- Swagger / OpenAPI
-
----
-
 ## How to Run
 
 ### 1. Clone the repository
